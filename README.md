@@ -148,7 +148,6 @@ The paper list what I read
 - Word Beam Search: A connectionist Temporal Classification Decoding Algorithm
 - 저자원 환경의 음성인식을 위한 자기 주의를 활용한 음향 모델 학습
 ### Speaker Recognition
-- A Survey on Neural Speech Synthesis
 - AutoSpeech: Neural Architecture Search for Speaker Recognition
 - Deep Learning Methods in Speaker Recognition: A Review
 - Deep speaker: an end-to-end neural speaker embedding system
@@ -208,6 +207,7 @@ The paper list what I read
 - MUSAN: A Music, Speech, and Noise Corpus
 ### TTS/VC
 - A review of deep learning based speech synthesis
+- A Survey on Neural Speech Synthesis
 - Adversarial Audio Synthesis
 - AutoVC: Zero-Shot Voice Style Transfer with Only Autoencoder Loss
 - Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech
