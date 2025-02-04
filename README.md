@@ -39,7 +39,6 @@ The paper list what I read
 - A Comparison of Sequence-to-Sequence Models for Speech Recognition
 - A deep Learning Approach to Automatic Characterisation of Rhythm in Non-native English Speech
 - A pitch extraction algorithm tuned for automatic speech recognition
-- A study on data augmentation of reverberant speech for robust speech recognition
 - A time delay neural network architecture for efficient modeling of long temporal contexts
 - Active Learning for Speech Recognition: the Power of Gradients
 - Active Learning for LF-MMI Trained Neural Networks in ASR
@@ -50,7 +49,6 @@ The paper list what I read
 - An exploration of dropout with LSTMs
 - An overview of Automatic Speech Attribute Transcription (ASAT)
 - An overview of End-to-end Automatic Speech Recognition
-- Audio Augmentation for Speech Recognition
 - Automatic Speech Recognition for Second Language Learning: How and Why It Actually Works
 - Automatic Speech Recognition of Multiple Accented Englsih Data
 - Blank Collapse: Compressing CTC emission for the faster decoding
@@ -65,9 +63,6 @@ The paper list what I read
 - Continual Learning Using Lattice-Free MMI for Speech Recognition
 - Coupled Training of Sequence-to-sequence Models for Accented Speech Recognition
 - CTC-Segmentation of Large Corpora for German End-to-end Speech Recognition
-- Data Augmentation for Deep Neural Network Acoustic Modeling
-- Data Augmentation Improves Recognition of Foreign Accented Speech
-- Data Augmenting Contrastive Learning of Speech Representations in the Time Domain
 - Deep Speech2: End-to-end Speech Recognition in English and Mandarin
 - Distil-Whisper: Robust Knowledge Distillation via Large-Scale Pseudo Labelling
 - DistillW2V2: A Small and Streaming Wav2vec 2.0 Based ASR Model
@@ -84,7 +79,6 @@ The paper list what I read
 - English Conversational Telephone Speech Recognition by Humans and Machines
 - Exploring Deep Learning Architectures for Automatically Grading Non-native Spontaneous Speech
 - Exploring Lexicon-Free Modeling Units for End-to-End Korean and Korean-English Code-Switching Speech Recognition
-- FAIRSEQ S2T: Fast Speech-to-Text Modeling with FAIRSEQ
 - Far-Field Automatic Speech Recognition
 - Fast Conformer with Linearly Scalable Attention for Efficient Speech Recognition
 - FastEmit: Low-latency Streaming ASR with Sequence-level Emission Regularization
@@ -112,7 +106,6 @@ The paper list what I read
 - MarbleNet: Deep 1D Time-Channel Separable Convolutional Neural Network for Voice Activity Detection
 - Mask CTC: Non-Autoregressive End-to-End ASR with CTC and Mask Predict
 - Memory-Efficient Training of RNN-Transducer with Sampled Softmax
-- MixSpeech: Data Augmentation for Low-Resource Automatic Speech Recognition
 - MLLR-based Accent Model Adaptation without Accented Data
 - Multi-accent Speech Recognition with Hierarchical Grapheme Based Models
 - Multi-dialect Speech Recognition with A Single Sequence-to-sequence Model
@@ -129,9 +122,6 @@ The paper list what I read
 - Run-and-Back Stitch Search: Novel Block Synchronous Decoding For Streaming Encoder-Decoder ASR
 - Sequence Transduction with Recurrent Neural Networks
 - Some Commonly Used Speech Feature Extraction Algorithms
-- SpecAugment: A simple Data Augmentation Method for Automatic Speech Recognition
-- Specaugment on Large Scale Datasets
-- Speech Augmentation using Wavenet in Speech Recognition
 - Speech Recognition of Multiple Accented English Data Using Acoustic Model Interpolation
 - Speech recognition with weighted finite-state transducers
 - Speech-transformer: a no-recurrence sequence-to-sequence model for speech recognition
@@ -145,7 +135,7 @@ The paper list what I read
 - Towards Online End-to-end Transformer Automatic Speech Recognition
 - Towards Fast and Accurate Streaming End-To-End ASR
 - Transformer transducer: A streamable speech recognition model with transformer encoders and rnn-t loss
-- Using Accent-Spercific Pronunciation Modelling for Robust Speech Recognition
+- Using Accent-Specific Pronunciation Modelling for Robust Speech Recognition
 - Using Adapters to Overcome Catastrophic Forgetting in End-to-End Automatic Speech Recognition
 - VAD-free Streaming Hybrid CTC/Attention ASR for Unsegmented Recording
 - Vocal Tract Length Perturbation (VTLP) improves speech recognition
@@ -187,9 +177,39 @@ The paper list what I read
 - SEGAN: Speech Enhancement Generative Adversarial Network
 - Self-Attentive VAD: Context-Aware Detection of Voice from Noise
 - The INTERSPEECH 2020 Deep Noise Suppression Challenge: Datasets, Subjective Testing Framework, and Challenge Resultss
-### Speech Synthesis
+### Speech Augmentation
+- A study on data augmentation of reverberant speech for robust speech recognition
+- Audio Augmentation for Speech Recognition
+- Data Augmentation for Deep Neural Network Acoustic Modeling
+- Data Augmentation Improves Recognition of Foreign Accented Speech
+- Data Augmenting Contrastive Learning of Speech Representations in the Time Domain
+- MixSpeech: Data Augmentation for Low-Resource Automatic Speech Recognition
+- SpecAugment: A simple Data Augmentation Method for Automatic Speech Recognition
+- Specaugment on Large Scale Datasets
+- Speech Augmentation using Wavenet in Speech Recognition
+### Speech Toolkit
+- ESPnet: End-to-end Speech Processing Toolkit
+- ESPnet-ONNX: Bridging a Gap Between Research and Production
+- Espresso: A Fast End-to-End Neural Speech Recognition Toolkit
+- ExKaldi-RT: A Real-Time Automatic Speech Recognition Extension Toolkit of Kaldi
+- FAIRSEQ S2T: Fast Speech-to-Text Modeling with FAIRSEQ
+- Montreal Forced Aligner: trainable text-speech alignment using Kaldi
+- NeMo: a toolkit for building AI applications using Neural Modules
+- PyKaldi: A Python Wrapper for Kaldi
+- PyKaldi2: Yet Another Speech Toolkit Based on Kaldi and Pytorch
+- SpeechBrain: A General-Purpose Speech Toolkit
+- The 2020 ESPnet Update: New Features, Broadened Applications, Performance Improvements, and Future Plans
+- The Kaldi Speech Recognition Toolkit
+- The Pytorch-kaldi Speech Recognition Toolkit
+### Speech Dataset
+- ClovaCall: Korean Goal-Oriented Dialog Speech Corpus for Automatic Speech Recognition of Contact Centers
+- Common Voice: A Massively-Multilingual Speech Corpus
+- Librispeech: An ASR Corpus Based on Public Domain Audio Books
+- MUSAN: A Music, Speech, and Noise Corpus
+### TTS/VC
 - A review of deep learning based speech synthesis
 - Adversarial Audio Synthesis
+- AutoVC: Zero-Shot Voice Style Transfer with Only Autoencoder Loss
 - Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech
 - Deep Voice: Real-time Neural Text-to-Speech
 - Emotional Speech Synthesis With Rich And Granularized Control
@@ -205,26 +225,6 @@ The paper list what I read
 - VocGAN: A High-Fidelity Real-time Vocoder with a Hierarchically-nested Adversarial Network
 - Waveglow: A flow-based generative network for speech synthesis
 - Wavenet: A Generative Model for Raw Audio
-### Voice Conversion
-- AutoVC: Zero-Shot Voice Style Transfer with Only Autoencoder Loss
-### Speech Toolkit
-- ESPnet: End-to-end Speech Processing Toolkit
-- ESPnet-ONNX: Bridging a Gap Between Research and Production
-- Espresso: A Fast End-to-End Neural Speech Recognition Toolkit
-- ExKaldi-RT: A Real-Time Automatic Speech Recognition Extension Toolkit of Kaldi
-- Montreal Forced Aligner: trainable text-speech alignment using Kaldi
-- NeMo: a toolkit for building AI applications using Neural Modules
-- PyKaldi: A Python Wrapper for Kaldi
-- PyKaldi2: Yet Another Speech Toolkit Based on Kaldi and Pytorch
-- SpeechBrain: A General-Purpose Speech Toolkit
-- The 2020 ESPnet Update: New Features, Broadened Applications, Performance Improvements, and Future Plans
-- The Kaldi Speech Recognition Toolkit
-- The Pytorch-kaldi Speech Recognition Toolkit
-### Speech Dataset
-- ClovaCall: Korean Goal-Oriented Dialog Speech Corpus for Automatic Speech Recognition of Contact Centers
-- Common Voice: A Massively-Multilingual Speech Corpus
-- Librispeech: An ASR Corpus Based on Public Domain Audio Books
-- MUSAN: A Music, Speech, and Noise Corpus
 ### NLP/LLM
 - An algorithm for suffix stripping
 - Attention is all you need
