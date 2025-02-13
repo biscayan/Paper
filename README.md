@@ -276,6 +276,7 @@ The paper list what I read
 - Multimodal Speech Emotion Recognition using Cross Attention with Aligned Audio and Text
 - On decoder-only architecture for speech-to-text and large language model integration
 - Paralinguistics-Aware Speech-Empowered Large Language Models for Natural Conversation
+- Prompting Large Language Models with Speech Recognition Abilities
 - SALM: Speech-augmented Language Model with In-context Learning for Speech Recognition and Translation
 - Self-Supervised Learning with Cross-Modal Transformers for Emotion Recognition
 - Speech Translation with Large Language Models: An Industrial Practice
