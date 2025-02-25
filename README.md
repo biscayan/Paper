@@ -270,6 +270,7 @@ The paper list what I read
 - BESTOW: Efficient and Streamable Speech Language Model with the Best of Two Worlds in GPT and T5
 - GenTranslate: Large Language Models are Generative Multilingual Speech and Machine Translators
 - GLM-4-Voice: Towards Intelligent and Human-Like End-to-End Spoken Chatbot
+- Large Language Models are Efficient Learners of Noise-Robust Speech Recognition
 - LLaMA-Omni: Seamless Speech Interaction with Large Language Models
 - Multimodal Cross- and Self-Attention Network for Speech Emotion Recognition
 - Multimodal Emotion Recognition with High-level Speech and Text Features
