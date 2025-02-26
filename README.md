@@ -268,6 +268,7 @@ The paper list what I read
 - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
 - AudioPaLM: A Large Language Model That Can Speak and Listen
 - BESTOW: Efficient and Streamable Speech Language Model with the Best of Two Worlds in GPT and T5
+- Emotion-LLaMA: Multimodal Emotion Recognition and Reasoning with Instruction Tuning
 - GenTranslate: Large Language Models are Generative Multilingual Speech and Machine Translators
 - GLM-4-Voice: Towards Intelligent and Human-Like End-to-End Spoken Chatbot
 - Large Language Models are Efficient Learners of Noise-Robust Speech Recognition
