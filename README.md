@@ -288,6 +288,7 @@ The paper list what I read
 - SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities
 - Qwen-Audio: Advancing Universal Audio Understanding via Unified Large-Scale Audio-Language Models
 - Tensor Fusion Network for Multimodal Sentiment Analysis
+- Textually Pretrained Speech Language Models
 - Whispering LLaMA: A Cross-Modal Generative Error Correction Framework for Speech Recognition
 ### Reinforcement Learning
 - Neural architecture search with reinforcement learning
