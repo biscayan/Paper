@@ -273,6 +273,7 @@ The paper list what I read
 - GLM-4-Voice: Towards Intelligent and Human-Like End-to-End Spoken Chatbot
 - Large Language Models are Efficient Learners of Noise-Robust Speech Recognition
 - LLaMA-Omni: Seamless Speech Interaction with Large Language Models
+- Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming
 - Multimodal Cross- and Self-Attention Network for Speech Emotion Recognition
 - Multimodal Emotion Recognition with High-level Speech and Text Features
 - Multimodal Speech Emotion Recognition and Ambiguity Resolution
