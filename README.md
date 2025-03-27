@@ -288,6 +288,7 @@ The paper list what I read
 - Speech Translation with Large Language Models: An Industrial Practice
 - SpeechAgents: Human-Communication Simulation with Multi-Modal Multi-Agent Systems
 - SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities
+- VoiceTextBlender: Augmenting Large Language Models with Speech Capabilities via Single-Stage Joint Speech-Text Supervised Fine-Tuning
 - Qwen-Audio: Advancing Universal Audio Understanding via Unified Large-Scale Audio-Language Models
 - Tensor Fusion Network for Multimodal Sentiment Analysis
 - Textually Pretrained Speech Language Models
