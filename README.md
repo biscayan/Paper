@@ -274,6 +274,7 @@ The paper list what I read
 - Large Language Models are Efficient Learners of Noise-Robust Speech Recognition
 - LLaMA-Omni: Seamless Speech Interaction with Large Language Models
 - Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming
+- Model Composition for Multimodal Large Language Models
 - Multimodal Cross- and Self-Attention Network for Speech Emotion Recognition
 - Multimodal Emotion Recognition with High-level Speech and Text Features
 - Multimodal Speech Emotion Recognition and Ambiguity Resolution
