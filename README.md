@@ -293,6 +293,7 @@ The paper list what I read
 - Qwen-Audio: Advancing Universal Audio Understanding via Unified Large-Scale Audio-Language Models
 - Tensor Fusion Network for Multimodal Sentiment Analysis
 - Textually Pretrained Speech Language Models
+- WavCaps: A ChatGPT-Assisted Weakly-Labelled Audio Captioning Dataset for Audio-Language Multimodal Research
 - Whispering LLaMA: A Cross-Modal Generative Error Correction Framework for Speech Recognition
 ### Reinforcement Learning
 - Neural architecture search with reinforcement learning
