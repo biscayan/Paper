@@ -114,6 +114,7 @@ The paper list what I read
 - Multilingual DistilWhisper: Efficient Distillation of Multi-task Speech Models via Language-Specific Experts
 - Online Continual Learning of End-to-End Speech Recognition Models
 - Output-Gate Projected Gated Recurrent Unit for Speech Recognition
+- OWSM v3.1: Better and Faster Open Whisper-Style Speech Models based on E-Branchformer
 - Purely sequence-trained neural networks for ASR based on lattice-free MMI
 - Pushing the Limits of Semi-Supervised Learning for Automatic Speech Recognition
 - PyChain: A Fully Parallelized PyTorch Implementation of LF-MMI for End-to-End ASR
