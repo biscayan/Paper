@@ -98,6 +98,7 @@ The paper list what I read
 - JHU Kaldi system for Arabic MGB-3 ASR challenge using diarization, audio-transcript alignment and transfer learning
 - Joint CTC-attention based end-to-end speech recognition using multi-task learning
 - Language identification with suprasegmental cues: A study based on speech resynthesis
+- Less is More: Accurate Speech Recognition & Translation without Web-Scale Data
 - Leveraging Native Language Information for Improved Accented Speech Recognition
 - Lhotse: a speech data representation library for the modern deep learning ecosystem
 - Libri-Light: A Benchmark for ASR with Limited or No Supervision
