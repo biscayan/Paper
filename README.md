@@ -273,6 +273,7 @@ The paper list what I read
 - Emotion-LLaMA: Multimodal Emotion Recognition and Reasoning with Instruction Tuning
 - GenTranslate: Large Language Models are Generative Multilingual Speech and Machine Translators
 - GLM-4-Voice: Towards Intelligent and Human-Like End-to-End Spoken Chatbot
+- Kimi-Audio Technical Report
 - Large Language Models are Efficient Learners of Noise-Robust Speech Recognition
 - LLaMA-Omni: Seamless Speech Interaction with Large Language Models
 - Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming
