@@ -288,6 +288,7 @@ The paper list what I read
 - Paralinguistics-Aware Speech-Empowered Large Language Models for Natural Conversation
 - Phi-4-Mini Technical Report: Compact yet Powerful Multimodal Language Models via Mixture-of-LoRAs
 - Prompting Large Language Models with Speech Recognition Abilities
+- Qwen2.5-Omni Technical Report
 - SALM: Speech-augmented Language Model with In-context Learning for Speech Recognition and Translation
 - Self-Supervised Learning with Cross-Modal Transformers for Emotion Recognition
 - Speech Translation with Large Language Models: An Industrial Practice
