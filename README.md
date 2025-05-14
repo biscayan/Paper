@@ -222,6 +222,7 @@ The paper list what I read
 - MelGAN: Generative Adversarial Networks for Conditional Waveform Synthesis
 - Natural tts synthesis by conditioning wavenet on mel spectrogram predictions
 - Neural Speech Synthesis with Transformer Network
+- OpenVoice: Versatile Instant Voice Cloning
 - Period VITS: Variational Inference with Explicit Pitch Modeling for End-To-End Emotional Speech Synthesis
 - Tacotron: Towards end-to-end speech synthesis
 - YourTTS: Towards Zero-Shot Multi-Speaker TTS and Zero-Shot Voice Conversion for Everyone
