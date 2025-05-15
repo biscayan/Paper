@@ -226,6 +226,8 @@ The paper list what I read
 - Period VITS: Variational Inference with Explicit Pitch Modeling for End-To-End Emotional Speech Synthesis
 - Tacotron: Towards end-to-end speech synthesis
 - YourTTS: Towards Zero-Shot Multi-Speaker TTS and Zero-Shot Voice Conversion for Everyone
+- VITS2: Improving Quality and Efficiency of Single-Stage Text-to-Speech with
+Adversarial Learning and Architecture Design
 - VocGAN: A High-Fidelity Real-time Vocoder with a Hierarchically-nested Adversarial Network
 - Waveglow: A flow-based generative network for speech synthesis
 - Wavenet: A Generative Model for Raw Audio
