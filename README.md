@@ -149,6 +149,7 @@ The paper list what I read
 - wav2vec: Unsupervised Pre-training for Speech Recognition
 - wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations
 - Word Beam Search: A connectionist Temporal Classification Decoding Algorithm
+- Zipformer: A faster and better encoder for automatic speech recognition
 - 저자원 환경의 음성인식을 위한 자기 주의를 활용한 음향 모델 학습
 ### Speaker Recognition
 - AutoSpeech: Neural Architecture Search for Speaker Recognition
