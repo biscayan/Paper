@@ -62,6 +62,7 @@ The paper list what I read
 - Continual Learning in Automatic Speech Recognition
 - Continual Learning Using Lattice-Free MMI for Speech Recognition
 - Coupled Training of Sequence-to-sequence Models for Accented Speech Recognition
+- CR-CTC: Consistency regularization on CTC for improved speech recognition
 - CTC-Segmentation of Large Corpora for German End-to-end Speech Recognition
 - Deep Speech2: End-to-end Speech Recognition in English and Mandarin
 - Distil-Whisper: Robust Knowledge Distillation via Large-Scale Pseudo Labelling
