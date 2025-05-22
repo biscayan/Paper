@@ -112,6 +112,7 @@ The paper list what I read
 - MLLR-based Accent Model Adaptation without Accented Data
 - Multi-accent Speech Recognition with Hierarchical Grapheme Based Models
 - Multi-dialect Speech Recognition with A Single Sequence-to-sequence Model
+- Multi-Head State Space Model for Speech Recognition
 - Multi-task Learning for Speech Recognition: An overview
 - Multilingual DistilWhisper: Efficient Distillation of Multi-task Speech Models via Language-Specific Experts
 - Online Continual Learning of End-to-End Speech Recognition Models
