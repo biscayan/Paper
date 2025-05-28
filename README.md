@@ -125,6 +125,7 @@ The paper list what I read
 - Recent Developments on Espnet Toolkit Boosted By Conformer
 - Robust Speech Recognition via Large-Scale Weak Supervision
 - Run-and-Back Stitch Search: Novel Block Synchronous Decoding For Streaming Encoder-Decoder ASR
+- Samba-ASR: State-Of-The-Art Speech Recognition Leveraging Structured State-Space Models
 - Sequence Transduction with Recurrent Neural Networks
 - Some Commonly Used Speech Feature Extraction Algorithms
 - Speech Recognition of Multiple Accented English Data Using Acoustic Model Interpolation
