@@ -212,6 +212,7 @@ The paper list what I read
 - Common Voice: A Massively-Multilingual Speech Corpus
 - Librispeech: An ASR Corpus Based on Public Domain Audio Books
 - MUSAN: A Music, Speech, and Noise Corpus
+- SD-QA: Spoken Dialectal Question Answering for the Real World
 ### TTS/VC
 - A review of deep learning based speech synthesis
 - A Survey on Neural Speech Synthesis
