@@ -210,6 +210,7 @@ The paper list what I read
 ### Speech Dataset
 - ClovaCall: Korean Goal-Oriented Dialog Speech Corpus for Automatic Speech Recognition of Contact Centers
 - Common Voice: A Massively-Multilingual Speech Corpus
+- Large-scale Contrastive Language-Audio Pretraining with Feature Fusion and Keyword-to-Caption Augmentation
 - Librispeech: An ASR Corpus Based on Public Domain Audio Books
 - MUSAN: A Music, Speech, and Noise Corpus
 - SD-QA: Spoken Dialectal Question Answering for the Real World
