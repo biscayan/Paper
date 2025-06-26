@@ -256,6 +256,7 @@ Adversarial Learning and Architecture Design
 - Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism
 - mT5: A Massively Multilingual Pre-trained Text-to-Text Transformer
 - Neural Machine Translation of Rare Words with Subword Units
+- Neural Machine Translation with Byte-Level Subwords
 - Recent Trends in the Use of Deep Learning Models for Grammar Error Handling
 - RoBERTa: A Robustly Optimized BERT Pretraining Approach
 - SentencePiece: A simple and language independent subword tokenizer and detokenizer for Neural Text Processing
