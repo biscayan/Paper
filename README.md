@@ -40,6 +40,7 @@ The paper list what I read
 - A deep Learning Approach to Automatic Characterisation of Rhythm in Non-native English Speech
 - A pitch extraction algorithm tuned for automatic speech recognition
 - A time delay neural network architecture for efficient modeling of long temporal contexts
+- Accelerating RNN-T Training and Inference Using CTC guidance
 - Active Learning for Speech Recognition: the Power of Gradients
 - Active Learning for LF-MMI Trained Neural Networks in ASR
 - Adaptation Methods for Non-native Speech
