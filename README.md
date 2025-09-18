@@ -50,6 +50,7 @@ The paper list what I read
 - An exploration of dropout with LSTMs
 - An overview of Automatic Speech Attribute Transcription (ASAT)
 - An overview of End-to-end Automatic Speech Recognition
+- AsyncSwitch: Asynchronous Text-Speech Adaptation for Code-Switched ASR
 - Automatic Speech Recognition for Second Language Learning: How and Why It Actually Works
 - Automatic Speech Recognition of Multiple Accented Englsih Data
 - Blank Collapse: Compressing CTC emission for the faster decoding
@@ -80,6 +81,7 @@ The paper list what I read
 - End-to-end Speech Recognition Using Lattice-free MMI
 - End-to-end Speech Recognition with Word-based RNN Language Models
 - English Conversational Telephone Speech Recognition by Humans and Machines
+- Enhancing Code-switching Speech Recognition with Interactive Language Biases
 - Exploring Deep Learning Architectures for Automatically Grading Non-native Spontaneous Speech
 - Exploring Lexicon-Free Modeling Units for End-to-End Korean and Korean-English Code-Switching Speech Recognition
 - Far-Field Automatic Speech Recognition
