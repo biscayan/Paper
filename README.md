@@ -218,6 +218,8 @@ The paper list what I read
 ### Speech Dataset
 - ClovaCall: Korean Goal-Oriented Dialog Speech Corpus for Automatic Speech Recognition of Contact Centers
 - Common Voice: A Massively-Multilingual Speech Corpus
+- CS-FLEURS: A Massively Multilingual and Code-Switched Speech Dataset
+- FLEURS: Few-shot Learning Evaluation of Universal Representations of Speech
 - Large-scale Contrastive Language-Audio Pretraining with Feature Fusion and Keyword-to-Caption Augmentation
 - Librispeech: An ASR Corpus Based on Public Domain Audio Books
 - MUSAN: A Music, Speech, and Noise Corpus
