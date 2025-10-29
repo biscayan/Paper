@@ -162,6 +162,7 @@ The paper list what I read
 - AsyncSwitch: Asynchronous Text-Speech Adaptation for Code-Switched ASR
 - Can we train ASR systems on Code-switch without real code-switch data? Case study for Singapore's languages
 - Enhancing Code-switching Speech Recognition with Interactive Language Biases
+- Unified Model for Code-Switching Speech Recognition and Language Identification Based on Concatenated Tokenizer
 ### Speaker Recognition
 - AutoSpeech: Neural Architecture Search for Speaker Recognition
 - Deep Learning Methods in Speaker Recognition: A Review
