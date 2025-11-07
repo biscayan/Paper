@@ -158,6 +158,7 @@ The paper list what I read
 - Zipformer: A faster and better encoder for automatic speech recognition
 - 저자원 환경의 음성인식을 위한 자기 주의를 활용한 음향 모델 학습
 ### Code-switching ASR
+- Adapting Whisper for Code-Switching through Encoding Refining and Language-Aware Decoding
 - Aligning Speech to Languages to Enhance Code-switching Speech Recognition
 - AsyncSwitch: Asynchronous Text-Speech Adaptation for Code-Switched ASR
 - Can we train ASR systems on Code-switch without real code-switch data? Case study for Singapore's languages
