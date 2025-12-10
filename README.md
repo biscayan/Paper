@@ -184,6 +184,7 @@ The paper list what I read
 - RawNet: Advanced end-to-end deep neural network using raw waveforms for text-independent speaker verification
 - Speaker Recognition Based on Deep Learning: An Overview
 - Speaker Recognition from Raw Waveform with SincNet
+- Speaker Targeting via Self-Speaker Adaptation for Multi-talker ASR
 - TitaNet: Neural Model for Speaker Representation with 1D Depth-Wise Separable Convolutions and Global Context
 - Unsupervised Domain Adaptation via Domain Adversarial Training for Speaker Recognition
 ### Speech Enhancement
