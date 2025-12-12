@@ -8,7 +8,6 @@ The paper list what I read
 - Active Learning for Convolutional Neural Networks: A Core-Set Approach
 - An overview of Multi-Task Learning in Deep Neural Networks
 - Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
-- data2vec: A General Framework for Self-supervised Learning in Speech, Vision and Language
 - Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding
 - Deep Networks with Stochastic Depth
 - Distilling the Knowledge in a Neural Network
@@ -28,11 +27,19 @@ The paper list what I read
 - Overcoming catastrophic forgetting in neural networks
 - Progressive Neural Networks
 - Pseudo-label: The simple and efficient semi-supervised learning method for deep neural networks
-- Representation Learning with Contrastive Predictive Coding
 - Searching for Activation Functions
 - SGDR: Stochastic Gradient Descent with Warm Restarts
 - Unsupervised Data Augmentation for Consistency Training
 - ZeRO: Memory optimizations Toward Training Trillion Parameter Models
+### Self-supervised Learning
+- data2vec: A General Framework for Self-supervised Learning in Speech, Vision and Language
+- HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units
+- NEST: Self-supervised Fast Conformer as All-purpose Seasoning to Speech Processing Tasks
+- Representation Learning with Contrastive Predictive Coding
+- vq-wav2vec: Self-Supervised Learning of Discrete Speech Representations
+- W2v-BERT: Combining Contrastive Learning and Masked Language Modeling for Self-Supervised Speech Pre-Training
+- wav2vec: Unsupervised Pre-training for Speech Recognition
+- wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations
 ### Speech Recognition
 - A Comparative Study on E-Branchformer vs Conformer in Speech Recognition, Translation, and Understanding Tasks
 - A Comparative Study on Transformer vs RNN in Speech Applications
@@ -88,7 +95,6 @@ The paper list what I read
 - FastEmit: Low-latency Streaming ASR with Sequence-level Emission Regularization
 - Generalizing RNN-Transducer to Out-Domain Audio via Sparse Self-Attention Layers
 - Full-duplex Speech-to-text System for Estonian
-- HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units
 - Hyperparameter experiments on end-to-end automatic speech recognition
 - Improved Accented Speech Recognition using Accent Embeddings and Multi-task Learning
 - Improved end-of-query detection for streaming speech recognition
@@ -149,12 +155,8 @@ The paper list what I read
 - Using Adapters to Overcome Catastrophic Forgetting in End-to-End Automatic Speech Recognition
 - VAD-free Streaming Hybrid CTC/Attention ASR for Unsegmented Recording
 - Vocal Tract Length Perturbation (VTLP) improves speech recognition
-- vq-wav2vec: Self-Supervised Learning of Discrete Speech Representations
-- W2v-BERT: Combining Contrastive Learning and Masked Language Modeling for Self-Supervised Speech Pre-Training
 - Wav2Letter: an End-to-End ConvNet-based Speech Recognition System
 - Wav2Letter++: A Fast Open-source Speech Recognition System
-- wav2vec: Unsupervised Pre-training for Speech Recognition
-- wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations
 - Word Beam Search: A connectionist Temporal Classification Decoding Algorithm
 - Zipformer: A faster and better encoder for automatic speech recognition
 - 저자원 환경의 음성인식을 위한 자기 주의를 활용한 음향 모델 학습
