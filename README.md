@@ -36,6 +36,7 @@ The paper list what I read
 - HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units
 - NEST: Self-supervised Fast Conformer as All-purpose Seasoning to Speech Processing Tasks
 - Representation Learning with Contrastive Predictive Coding
+- Self-Supervised Learning with Random-Projection Quantizer for Speech Recognition
 - vq-wav2vec: Self-Supervised Learning of Discrete Speech Representations
 - W2v-BERT: Combining Contrastive Learning and Masked Language Modeling for Self-Supervised Speech Pre-Training
 - wav2vec: Unsupervised Pre-training for Speech Recognition
