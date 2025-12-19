@@ -89,6 +89,7 @@ The paper list what I read
 - End-to-end Speech Recognition with Word-based RNN Language Models
 - English Conversational Telephone Speech Recognition by Humans and Machines
 - Enhancing Low-Resource ASR through Versatile TTS: Bridging the Data Gap
+- Enhancing Neural Transducer for Multilingual ASR with Synchronized Language Diarization
 - Exploring Deep Learning Architectures for Automatically Grading Non-native Spontaneous Speech
 - Exploring Lexicon-Free Modeling Units for End-to-End Korean and Korean-English Code-Switching Speech Recognition
 - Far-Field Automatic Speech Recognition
