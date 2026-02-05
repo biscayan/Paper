@@ -236,6 +236,8 @@ The paper list what I read
 - Librispeech: An ASR Corpus Based on Public Domain Audio Books
 - MUSAN: A Music, Speech, and Noise Corpus
 - SD-QA: Spoken Dialectal Question Answering for the Real World
+## S2S
+- SALM-Duplex: Efficient and Direct Duplex Modeling for Speech-to-Speech Language Model
 ### TTS/VC
 - A review of deep learning based speech synthesis
 - A Survey on Neural Speech Synthesis
