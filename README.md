@@ -236,7 +236,8 @@ The paper list what I read
 - Librispeech: An ASR Corpus Based on Public Domain Audio Books
 - MUSAN: A Music, Speech, and Noise Corpus
 - SD-QA: Spoken Dialectal Question Answering for the Real World
-## S2S
+## V2V
+- PersonaPlex: Voice and Role Control for Full Duplex Conversational Speech Models
 - SALM-Duplex: Efficient and Direct Duplex Modeling for Speech-to-Speech Language Model
 ### TTS/VC
 - A review of deep learning based speech synthesis
