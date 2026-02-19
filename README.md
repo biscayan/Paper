@@ -171,6 +171,7 @@ The paper list what I read
 - Code-switching Speech Recognition Under the Lens: Model- and Data-Centric Perspectives
 - Enhancing Code-switching Speech Recognition with Interactive Language Biases
 - Gated Low-rank Adaptation for personalized Code-Switching Automatic Speech Recognition on the low-spec devices
+- HiKE: Hierarchical Evaluation Framework for Korean-English Code-Switching Speech Recognition
 - Improving Code-Switching Speech Recognition with TTS Data Augmentation
 - Unified Model for Code-Switching Speech Recognition and Language Identification Based on Concatenated Tokenizer
 ### Speaker Recognition
