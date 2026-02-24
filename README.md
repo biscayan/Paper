@@ -121,6 +121,7 @@ The paper list what I read
 - Mask CTC: Non-Autoregressive End-to-End ASR with CTC and Mask Predict
 - Memory-Efficient Training of RNN-Transducer with Sampled Softmax
 - MLLR-based Accent Model Adaptation without Accented Data
+- Moonshine: Speech Recognition for Live Transcription and Voice Commands
 - Multi-accent Speech Recognition with Hierarchical Grapheme Based Models
 - Multi-dialect Speech Recognition with A Single Sequence-to-sequence Model
 - Multi-Head State Space Model for Speech Recognition
