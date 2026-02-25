@@ -242,6 +242,7 @@ The paper list what I read
 ## V2V
 - PersonaPlex: Voice and Role Control for Full Duplex Conversational Speech Models
 - SALM-Duplex: Efficient and Direct Duplex Modeling for Speech-to-Speech Language Model
+- Towards a Japanese Full-duplex Spoken Dialogue System
 ### TTS/VC
 - A review of deep learning based speech synthesis
 - A Survey on Neural Speech Synthesis
