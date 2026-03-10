@@ -241,6 +241,7 @@ The paper list what I read
 - SD-QA: Spoken Dialectal Question Answering for the Real World
 ## V2V
 - Effects of Dialogue Corpora Properties on Fine-Tuning a Moshi-Based Spoken Dialogue Model
+- Incorporating Dialogue State Tracking into Japanese Full-duplex Task-oriented Spoken Dialogue Model
 - PersonaPlex: Voice and Role Control for Full Duplex Conversational Speech Models
 - SALM-Duplex: Efficient and Direct Duplex Modeling for Speech-to-Speech Language Model
 - Towards a Japanese Full-duplex Spoken Dialogue System
