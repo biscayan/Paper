@@ -240,6 +240,7 @@ The paper list what I read
 - MUSAN: A Music, Speech, and Noise Corpus
 - SD-QA: Spoken Dialectal Question Answering for the Real World
 ## V2V
+- DuplexCascade: Full-Duplex Speech-to-Speech Dialogue with VAD-Free Cascaded ASR-LLM-TTS Pipeline and Micro-Turn Optimization
 - Effects of Dialogue Corpora Properties on Fine-Tuning a Moshi-Based Spoken Dialogue Model
 - Incorporating Dialogue State Tracking into Japanese Full-duplex Task-oriented Spoken Dialogue Model
 - PersonaPlex: Voice and Role Control for Full Duplex Conversational Speech Models
