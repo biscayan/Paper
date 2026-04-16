@@ -175,6 +175,7 @@ The paper list what I read
 - Gated Low-rank Adaptation for personalized Code-Switching Automatic Speech Recognition on the low-spec devices
 - HiKE: Hierarchical Evaluation Framework for Korean-English Code-Switching Speech Recognition
 - Improving Code-Switching Speech Recognition with TTS Data Augmentation
+- Speech collage: code-switched audio generation by collaging monolingual corpora
 - Unified Model for Code-Switching Speech Recognition and Language Identification Based on Concatenated Tokenizer
 ### Speaker Recognition
 - AutoSpeech: Neural Architecture Search for Speaker Recognition
