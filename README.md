@@ -168,6 +168,7 @@ The paper list what I read
 - Adapting Whisper for Code-Switching through Encoding Refining and Language-Aware Decoding
 - Aligning Speech to Languages to Enhance Code-switching Speech Recognition
 - AsyncSwitch: Asynchronous Text-Speech Adaptation for Code-Switched ASR
+- Boosting Code-Switching ASR with Mixture of Experts Enhanced Speech-Conditioned LLM
 - Can we train ASR systems on Code-switch without real code-switch data? Case study for Singapore's languages
 - Code-Switching in End-to-End Automatic Speech Recognition: A Systematic Literature Review
 - Code-switching Speech Recognition Under the Lens: Model- and Data-Centric Perspectives
