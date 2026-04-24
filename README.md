@@ -132,7 +132,6 @@ The paper list what I read
 - OWSM v3.1: Better and Faster Open Whisper-Style Speech Models based on E-Branchformer
 - Pruned RNN-T for fast, memory-efficient ASR training
 - Purely sequence-trained neural networks for ASR based on lattice-free MMI
-- Pushing the Limits of On-Device Streaming ASR: A Compact, High-Accuracy English Model for Low-Latency Inference
 - Pushing the Limits of Semi-Supervised Learning for Automatic Speech Recognition
 - PyChain: A Fully Parallelized PyTorch Implementation of LF-MMI for End-to-End ASR
 - Quartznet: Deep Automatic Speech Recognition with 1D Time-Channel Separable Convolutions
@@ -151,7 +150,6 @@ The paper list what I read
 - Squeezeformer: An Efficient Transformer for Automatic Speech Recognition
 - Stateful Conformer with Cache-based Inference for Streaming Automatic Speech Recognition
 - Streaming Automatic Speech Recognition with the Transformer Models
-- Streaming End-to-end Speech Recognition for Mobile Devices
 - Streaming Transformer Asr With Blockwise Synchronous Beam Search
 - Towards Online End-to-end Transformer Automatic Speech Recognition
 - Towards Fast and Accurate Streaming End-To-End ASR
@@ -179,6 +177,9 @@ The paper list what I read
 - Improving Code-Switching Speech Recognition with TTS Data Augmentation
 - Speech collage: code-switched audio generation by collaging monolingual corpora
 - Unified Model for Code-Switching Speech Recognition and Language Identification Based on Concatenated Tokenizer
+### On-device ASR
+- Pushing the Limits of On-Device Streaming ASR: A Compact, High-Accuracy English Model for Low-Latency Inference
+- Streaming End-to-end Speech Recognition for Mobile Devices
 ### SpeechLM/AudioLM
 - A Survey on Speech Large Language Models
 - Audio Flamingo: A Novel Audio Language Model with Few-Shot Learning and Dialogue Abilities
