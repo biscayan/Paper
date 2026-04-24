@@ -179,6 +179,30 @@ The paper list what I read
 - Improving Code-Switching Speech Recognition with TTS Data Augmentation
 - Speech collage: code-switched audio generation by collaging monolingual corpora
 - Unified Model for Code-Switching Speech Recognition and Language Identification Based on Concatenated Tokenizer
+### SpeechLM/AudioLM
+- A Survey on Speech Large Language Models
+- Audio Flamingo: A Novel Audio Language Model with Few-Shot Learning and Dialogue Abilities
+- AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
+- AudioPaLM: A Large Language Model That Can Speak and Listen
+- BESTOW: Efficient and Streamable Speech Language Model with the Best of Two Worlds in GPT and T5
+- GenTranslate: Large Language Models are Generative Multilingual Speech and Machine Translators
+- GLM-4-Voice: Towards Intelligent and Human-Like End-to-End Spoken Chatbot
+- Kimi-Audio Technical Report
+- Large Language Models are Efficient Learners of Noise-Robust Speech Recognition
+- LLaMA-Omni: Seamless Speech Interaction with Large Language Models
+- Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming
+- On decoder-only architecture for speech-to-text and large language model integration
+- Paralinguistics-Aware Speech-Empowered Large Language Models for Natural Conversation
+- Prompting Large Language Models with Speech Recognition Abilities
+- SALM: Speech-augmented Language Model with In-context Learning for Speech Recognition and Translation
+- Speech Translation with Large Language Models: An Industrial Practice
+- SpeechAgents: Human-Communication Simulation with Multi-Modal Multi-Agent Systems
+- SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities
+- VoiceTextBlender: Augmenting Large Language Models with Speech Capabilities via Single-Stage Joint Speech-Text Supervised Fine-Tuning
+- Qwen-Audio: Advancing Universal Audio Understanding via Unified Large-Scale Audio-Language Models
+- Textually Pretrained Speech Language Models
+- WavCaps: A ChatGPT-Assisted Weakly-Labelled Audio Captioning Dataset for Audio-Language Multimodal Research
+- Whispering LLaMA: A Cross-Modal Generative Error Correction Framework for Speech Recognition
 ### Speaker Recognition
 - AutoSpeech: Neural Architecture Search for Speaker Recognition
 - Deep Learning Methods in Speaker Recognition: A Review
@@ -242,7 +266,7 @@ The paper list what I read
 - Librispeech: An ASR Corpus Based on Public Domain Audio Books
 - MUSAN: A Music, Speech, and Noise Corpus
 - SD-QA: Spoken Dialectal Question Answering for the Real World
-## V2V
+### V2V
 - DuplexCascade: Full-Duplex Speech-to-Speech Dialogue with VAD-Free Cascaded ASR-LLM-TTS Pipeline and Micro-Turn Optimization
 - Effects of Dialogue Corpora Properties on Fine-Tuning a Moshi-Based Spoken Dialogue Model
 - Incorporating Dialogue State Tracking into Japanese Full-duplex Task-oriented Spoken Dialogue Model
@@ -311,40 +335,17 @@ Adversarial Learning and Architecture Design
 - Very deep convolutional networks for large-scale image recognition
 - You Only Look Once: Unified, Real-Time Object detection
 ### Multi Modal
-- A Survey on Speech Large Language Models
-- Audio Flamingo: A Novel Audio Language Model with Few-Shot Learning and Dialogue Abilities
-- AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
-- AudioPaLM: A Large Language Model That Can Speak and Listen
-- BESTOW: Efficient and Streamable Speech Language Model with the Best of Two Worlds in GPT and T5
 - Emotion-LLaMA: Multimodal Emotion Recognition and Reasoning with Instruction Tuning
-- GenTranslate: Large Language Models are Generative Multilingual Speech and Machine Translators
-- GLM-4-Voice: Towards Intelligent and Human-Like End-to-End Spoken Chatbot
-- Kimi-Audio Technical Report
-- Large Language Models are Efficient Learners of Noise-Robust Speech Recognition
-- LLaMA-Omni: Seamless Speech Interaction with Large Language Models
-- Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming
 - Model Composition for Multimodal Large Language Models
 - Multimodal Cross- and Self-Attention Network for Speech Emotion Recognition
 - Multimodal Emotion Recognition with High-level Speech and Text Features
 - Multimodal Speech Emotion Recognition and Ambiguity Resolution
 - Multimodal Speech Emotion Recognition Using Audio and Text
 - Multimodal Speech Emotion Recognition using Cross Attention with Aligned Audio and Text
-- On decoder-only architecture for speech-to-text and large language model integration
-- Paralinguistics-Aware Speech-Empowered Large Language Models for Natural Conversation
 - Phi-4-Mini Technical Report: Compact yet Powerful Multimodal Language Models via Mixture-of-LoRAs
-- Prompting Large Language Models with Speech Recognition Abilities
 - Qwen2.5-Omni Technical Report
-- SALM: Speech-augmented Language Model with In-context Learning for Speech Recognition and Translation
 - Self-Supervised Learning with Cross-Modal Transformers for Emotion Recognition
-- Speech Translation with Large Language Models: An Industrial Practice
-- SpeechAgents: Human-Communication Simulation with Multi-Modal Multi-Agent Systems
-- SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities
-- VoiceTextBlender: Augmenting Large Language Models with Speech Capabilities via Single-Stage Joint Speech-Text Supervised Fine-Tuning
-- Qwen-Audio: Advancing Universal Audio Understanding via Unified Large-Scale Audio-Language Models
 - Tensor Fusion Network for Multimodal Sentiment Analysis
-- Textually Pretrained Speech Language Models
-- WavCaps: A ChatGPT-Assisted Weakly-Labelled Audio Captioning Dataset for Audio-Language Multimodal Research
-- Whispering LLaMA: A Cross-Modal Generative Error Correction Framework for Speech Recognition
 ### Reinforcement Learning
 - Neural architecture search with reinforcement learning
 - Playing Atari with Deep Reinforcement Learning
