@@ -132,6 +132,7 @@ The paper list what I read
 - OWSM v3.1: Better and Faster Open Whisper-Style Speech Models based on E-Branchformer
 - Pruned RNN-T for fast, memory-efficient ASR training
 - Purely sequence-trained neural networks for ASR based on lattice-free MMI
+- Pushing the Limits of On-Device Streaming ASR: A Compact, High-Accuracy English Model for Low-Latency Inference
 - Pushing the Limits of Semi-Supervised Learning for Automatic Speech Recognition
 - PyChain: A Fully Parallelized PyTorch Implementation of LF-MMI for End-to-End ASR
 - Quartznet: Deep Automatic Speech Recognition with 1D Time-Channel Separable Convolutions
