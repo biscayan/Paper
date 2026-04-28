@@ -60,6 +60,7 @@ The paper list what I read
 - An overview of End-to-end Automatic Speech Recognition
 - Automatic Speech Recognition for Second Language Learning: How and Why It Actually Works
 - Automatic Speech Recognition of Multiple Accented Englsih Data
+- Bilingual End-to-End ASR with Byte-Level Subwords
 - Blank Collapse: Compressing CTC emission for the faster decoding
 - Branchformer: Parallel MLP-Attention Architectures to Capture Local and Global Context for Speech Recognition and Understanding
 - Component Fusion: Learning Replaceable Language Model Component for End-to-end Speech Recognition System
