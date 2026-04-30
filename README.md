@@ -63,6 +63,7 @@ The paper list what I read
 - Bilingual End-to-End ASR with Byte-Level Subwords
 - Blank Collapse: Compressing CTC emission for the faster decoding
 - Branchformer: Parallel MLP-Attention Architectures to Capture Local and Global Context for Speech Recognition and Understanding
+- Canary-1B-v2 & Parakeet-TDT-0.6B-v3: Efficient and High-Performance Models for Multilingual ASR and AST
 - Component Fusion: Learning Replaceable Language Model Component for End-to-end Speech Recognition System
 - Computer-Assisted Pronunciation Training from Pronunciation Scoring Towards Spoken Language Learning
 - Conformer: Convolution-augmented Transformer for Speech Recognition
