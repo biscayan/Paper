@@ -132,6 +132,7 @@ The paper list what I read
 - Online Continual Learning of End-to-End Speech Recognition Models
 - Output-Gate Projected Gated Recurrent Unit for Speech Recognition
 - OWSM v3.1: Better and Faster Open Whisper-Style Speech Models based on E-Branchformer
+- Paraformer: Fast and Accurate Parallel Transformer for Non-autoregressive End-to-End Speech Recognition
 - Pruned RNN-T for fast, memory-efficient ASR training
 - Purely sequence-trained neural networks for ASR based on lattice-free MMI
 - Pushing the Limits of Semi-Supervised Learning for Automatic Speech Recognition
