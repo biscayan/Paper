@@ -139,6 +139,7 @@ The paper list what I read
 - PyChain: A Fully Parallelized PyTorch Implementation of LF-MMI for End-to-End ASR
 - Quartznet: Deep Automatic Speech Recognition with 1D Time-Channel Separable Convolutions
 - Recent Developments on Espnet Toolkit Boosted By Conformer
+- Reducing the Offline-Streaming Gap for Unified ASR Transducer with Consistency Regularization
 - Rnn-Transducer with Stateless Prediction Network
 - Robust Speech Recognition via Large-Scale Weak Supervision
 - Run-and-Back Stitch Search: Novel Block Synchronous Decoding For Streaming Encoder-Decoder ASR
