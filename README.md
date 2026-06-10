@@ -54,7 +54,6 @@ The paper list what I read
 - Adaptation Methods for Non-native Speech
 - Adversarial Learning of Raw Speech Features for Domain Invariant Speech Recognition
 - Adversarial Multi-task Learning of Deep Neural Networks for Robust Speech Recognition
-- Adversarial Training for Multilingual Acoustic Modeling
 - An exploration of dropout with LSTMs
 - An overview of Automatic Speech Attribute Transcription (ASAT)
 - An overview of End-to-end Automatic Speech Recognition
@@ -63,7 +62,6 @@ The paper list what I read
 - Bilingual End-to-End ASR with Byte-Level Subwords
 - Blank Collapse: Compressing CTC emission for the faster decoding
 - Branchformer: Parallel MLP-Attention Architectures to Capture Local and Global Context for Speech Recognition and Understanding
-- Canary-1B-v2 & Parakeet-TDT-0.6B-v3: Efficient and High-Performance Models for Multilingual ASR and AST
 - Component Fusion: Learning Replaceable Language Model Component for End-to-end Speech Recognition System
 - Computer-Assisted Pronunciation Training from Pronunciation Scoring Towards Spoken Language Learning
 - Conformer: Convolution-augmented Transformer for Speech Recognition
@@ -92,7 +90,6 @@ The paper list what I read
 - End-to-end Speech Recognition with Word-based RNN Language Models
 - English Conversational Telephone Speech Recognition by Humans and Machines
 - Enhancing Low-Resource ASR through Versatile TTS: Bridging the Data Gap
-- Enhancing Neural Transducer for Multilingual ASR with Synchronized Language Diarization
 - Exploring Deep Learning Architectures for Automatically Grading Non-native Spontaneous Speech
 - Exploring Lexicon-Free Modeling Units for End-to-End Korean and Korean-English Code-Switching Speech Recognition
 - Far-Field Automatic Speech Recognition
@@ -128,7 +125,6 @@ The paper list what I read
 - Multi-dialect Speech Recognition with A Single Sequence-to-sequence Model
 - Multi-Head State Space Model for Speech Recognition
 - Multi-task Learning for Speech Recognition: An overview
-- Multilingual DistilWhisper: Efficient Distillation of Multi-task Speech Models via Language-Specific Experts
 - Online Continual Learning of End-to-End Speech Recognition Models
 - Output-Gate Projected Gated Recurrent Unit for Speech Recognition
 - OWSM v3.1: Better and Faster Open Whisper-Style Speech Models based on E-Branchformer
@@ -167,6 +163,11 @@ The paper list what I read
 - Word Beam Search: A connectionist Temporal Classification Decoding Algorithm
 - Zipformer: A faster and better encoder for automatic speech recognition
 - 저자원 환경의 음성인식을 위한 자기 주의를 활용한 음향 모델 학습
+### Multilingual ASR
+- Adversarial Training for Multilingual Acoustic Modeling
+- Canary-1B-v2 & Parakeet-TDT-0.6B-v3: Efficient and High-Performance Models for Multilingual ASR and AST
+- Enhancing Neural Transducer for Multilingual ASR with Synchronized Language Diarization
+- Multilingual DistilWhisper: Efficient Distillation of Multi-task Speech Models via Language-Specific Experts
 ### Code-switching ASR
 - Adapting Whisper for Code-Switching through Encoding Refining and Language-Aware Decoding
 - Aligning Speech to Languages to Enhance Code-switching Speech Recognition
