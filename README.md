@@ -220,6 +220,7 @@
 | Enhancing Neural Transducer for Multilingual ASR with Synchronized Language Diarization | 2023 | [link](https://scholar.google.com/scholar?q=Enhancing+Neural+Transducer+for+Multilingual+ASR+with+Synchronized+Language+Diarization) | 언어 분할 동기화로 다국어 transducer |
 | Multilingual DistilWhisper: Efficient Distillation of Multi-task Speech Models via Language-Specific Experts | 2023 | [arXiv](https://arxiv.org/abs/2311.01070) | 언어별 전문가로 Whisper 증류 |
 | Canary-1B-v2 & Parakeet-TDT-0.6B-v3: Efficient and High-Performance Models for Multilingual ASR and AST | 2025 | [arXiv](https://arxiv.org/abs/2509.14128) | 다국어 ASR·AST 고효율 NVIDIA 모델 |
+| BBPE16: UTF-16-based byte-level byte-pair encoding for improved multilingual speech recognition | 2026 | [arXiv](https://arxiv.org/abs/2602.01717) | UTF-16 기반 byte-level BPE로 다국어 ASR의 교차언어 토큰 공유·시퀀스 길이 개선 |
 
 ## Speech Recognition — Code-switching
 | Title | Year | Link | Summary |
@@ -438,6 +439,7 @@
 | Transformers: State-of-the-Art Natural Language Processing | 2020 | [arXiv](https://arxiv.org/abs/1910.03771) | HuggingFace Transformers 라이브러리 |
 | BTS: Back TranScription for Speech-to-Text Post-Processor using Text-to-Speech-to-Text | 2021 | [link](https://scholar.google.com/scholar?q=BTS:+Back+TranScription+for+Speech-to-Text+Post-Processor+using+Text-to-Speech-to-Text) | TTS-STT로 후처리 학습데이터 생성 |
 | LoRA: Low-Rank Adaptation of Large Language Models | 2021 | [arXiv](https://arxiv.org/abs/2106.09685) | 저랭크 행렬 파라미터 효율 미세조정 |
+| NeMo Inverse Text Normalization: From Development To Production | 2021 | [arXiv](https://arxiv.org/abs/2104.05055) | WFST 기반 오픈소스 역텍스트정규화(ITN) 라이브러리, 개발에서 프로덕션까지 |
 | SimCSE: Simple Contrastive Learning of Sentence Embeddings | 2021 | [arXiv](https://arxiv.org/abs/2104.08821) | dropout 대조 문장 임베딩 |
 | Chain-of-Thought Prompting Elicits Reasoning in Large Language Models | 2022 | [arXiv](https://arxiv.org/abs/2201.11903) | 단계적 추론 유도 프롬프팅 |
 | Thutmose Tagger: Single-pass neural model for Inverse Text Normalization | 2022 | [arXiv](https://arxiv.org/abs/2208.00064) | 태깅 기반 역텍스트정규화(ITN) |
