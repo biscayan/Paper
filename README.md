@@ -377,6 +377,7 @@
 | FLEURS: Few-shot Learning Evaluation of Universal Representations of Speech | 2022 | [arXiv](https://arxiv.org/abs/2205.12446) | 102개 언어 few-shot 평가셋 |
 | WavCaps: A ChatGPT-Assisted Weakly-Labelled Audio Captioning Dataset for Audio-Language Multimodal Research | 2023 | [arXiv](https://arxiv.org/abs/2303.17395) | ChatGPT 보조 약지도 오디오 캡션 데이터셋 |
 | CS-FLEURS: A Massively Multilingual and Code-Switched Speech Dataset | 2025 | [link](https://scholar.google.com/scholar?q=CS-FLEURS:+A+Massively+Multilingual+and+Code-Switched+Speech+Dataset) | 다국어 코드스위칭 음성 데이터셋 |
+| GigaSpeechBench: A Real-World Multilingual Speech-to-Text Benchmark | 2026 | [arXiv](https://arxiv.org/abs/2606.28884) | 다언어·방언·억양·도메인 680시간 실환경 음성인식 벤치마크 |
 
 ## Spoken Dialogue & Full-duplex (S2S)
 | Title | Year | Link | Summary |
